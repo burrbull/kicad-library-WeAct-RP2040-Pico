@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at -1.016 -6.508 90)
+		(at 0 -12 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "dfc6fd2d-1039-48cd-b6ea-ba86d36975e9")
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "WeAct-ESP32-C3FH4"
-		(at 2.54 -6 90)
+		(at 0.5 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "e0fcd0ab-7e49-49a0-b78e-423f4b2c4a3d")
@@ -124,7 +124,7 @@
 		(uuid "e457c159-7718-45e6-b232-fe4fa2b10845")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0.762 -6.508 90)
+		(at 0 -5.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "328f7dd5-770b-46d4-bcd5-0e8ae9d50fa3")
